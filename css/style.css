@@ -1,0 +1,22 @@
+.jordan{
+  font-family: 'Courgette', cursive;
+}
+
+th, td{
+  text-align: center;
+}
+table{
+  width:90vw;
+}
+
+th:active, td:active{
+  color:blue
+}
+
+th::after, td::after{
+  color:purple
+}
+.prices {
+  float: right;
+  clear: none;
+}
